@@ -1,0 +1,43 @@
+## Build and Output Folders
+bin/
+obj/
+out/
+[Bb]uild/
+publish/
+
+## Visual Studio cache & temporary files
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.userprefs
+*.dbmdl
+
+## Rider / JetBrains
+.idea/
+*.sln.iml
+
+## VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+## Crash logs and dumps
+*.stackdump
+*.dmp
+*.crash
+
+## OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+## Exported logs and shortcuts
+*.bat
+logs/
+exported_logs.txt
